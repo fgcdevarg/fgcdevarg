@@ -1,0 +1,341 @@
+a,p,h1,h2,h3,h4,h5,h6,li,.span{
+  font-family: 'Kanit', sans-serif;
+  
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+  }
+
+
+.body {
+    position: relative;
+    
+}
+
+
+.area{
+  position: relative;
+  background: transparent;
+  padding-top: 5rem;
+}
+
+.area2 {
+  position: relative;
+  background: transparent;
+  padding-top: 5rem;
+  background-color:bg-success;
+}
+
+
+.imagen{
+  max-width:100%;
+  height:auto;
+  padding:0px 50px 0px 50px;
+  
+}
+
+
+
+
+/****************/
+/* NavBar*/
+/****************/
+.nav-wrapper {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  background-color: #fff;
+}
+
+
+ul {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+/****************/
+/* Inicio*/
+/****************/
+
+.inicioo{
+  padding:0px 100px 0px 100px;
+  align-items: center;
+  justify-content: center;
+}
+
+.position-relative{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.text_inicio{
+   margin: 0 auto;
+}
+
+.imag_inicio{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/****************/
+/* Acerca de mi*/
+/****************/
+.section-padding-acerca {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.acercaDeMisection{
+  padding:0px 100px 0px 100px;
+  align-items: center;
+  justify-content: center;
+  
+  /*margin:auto;*/
+}
+
+.acercademi{
+  padding:70px 20px;
+  border-top-style: solid;
+  border-top-width: 20px;
+
+}
+
+
+.text_acercaDeMi{
+  /* Center horizontally*/
+  margin: 0 auto;
+}
+
+.font_acercadeMi{
+  font-size: 15px;
+}
+
+.mb1{
+  margin-bottom: 1rem;
+}
+
+.pe-lg-5 {
+  padding-right: 3rem;
+}
+
+.pb-1 {
+  padding-bottom: 0.25rem;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+.list-simple {
+  padding-left: 0;
+  list-style: none;
+}
+
+.mt-3 {
+  margin-top: 1rem;
+}
+
+/****************************/
+/* Educacion y Experiencia*/
+/****************************/
+
+.section-contenido-interior {
+  padding-bottom: 1rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.año {
+  list-style-type: none;
+  
+}
+
+.span { 
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  text-align-last: center;
+  font-size: 16px;
+}
+
+
+.content {
+    width:600px;
+    height:400px;
+    line-height:400px;
+    margin:0px auto;
+    text-align:center;
+    background-color:#CCCCCC;
+  }
+  
+.content img {
+    vertical-align:middle;
+  }
+
+.col-auto {
+    flex: 0 0 auto;
+    width: auto;
+  }
+
+.diva {
+    height: auto;
+    border: 1px solid black;
+  }
+
+.a{
+  text-align-last: center;
+  color: blue;
+}  
+
+#educ_exp{
+  color: #fffb04;
+}
+
+#proyectoss{
+  background-color:gray;
+}
+
+#sub-titulo-educ-exp{
+  color: #ffffff;
+}
+
+#appmob{
+  color: #ffffff;
+}
+
+#link{
+  color: #ffffff;
+}
+
+.btn1{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.experiencia{
+  text-align: center;
+}
+
+#exp{
+  color: #0804ff;
+}
+
+#exp2{
+  color:darkgreen
+}
+
+/****************************/
+/*      Proyectos           */
+/****************************/
+#nameBcoGal{
+  color:black;
+}
+
+#linkCarr1{
+  color: #0804ff;
+}
+
+#linkCarr2{
+  color: yellow
+}
+
+#nameAndersen{
+  color:rgb(255, 251, 18);
+}
+
+.item2{
+  text-align:center;
+  }
+
+/****************************/
+/*   Articulos de interes   */
+/****************************/
+
+#artInteres{
+  background-color:#1cafc9;
+}
+
+#artInteresdiv{
+  background-color:#1cafc9;
+}
+
+.img-fluid {
+    width: auto; 
+    max-height: 100%;
+  }
+
+  .center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+  }
+
+  .articulos{
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  #nota{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    color: #030303;
+  }
+
+  .articulo-dia{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    color: #fbff04;
+  }
+
+  .leer-mas{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    color: #7dff04;
+  }
+
+ 
+
+/****************************/
+/*       Contacto           */
+/****************************/
+#num_tel{
+  color:yellow
+  }
+
+#emailcont{
+  color:yellow
+}
+
+.botonEnviar{
+  padding-bottom: 20px;
+}
+
+.position-relative-footer{
+  padding-top: 20px;
+  padding-bottom: 10px;
+ 
+}
